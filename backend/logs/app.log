@@ -1,0 +1,148 @@
+2025-02-28 01:08:04 - app - INFO - Application startup
+2025-02-28 09:45:52 - app - INFO - Application startup
+2025-02-28 09:55:53 - app - INFO - Application shutdown
+2025-02-28 09:56:00 - app - INFO - Application startup
+2025-02-28 09:57:15 - app - INFO - Application shutdown
+2025-02-28 09:57:16 - app - INFO - Application startup
+2025-02-28 09:57:17 - app - INFO - Application shutdown
+2025-02-28 09:57:20 - app - INFO - Application startup
+2025-02-28 09:59:23 - app - INFO - Application shutdown
+2025-02-28 09:59:23 - app - INFO - Application startup
+2025-02-28 09:59:31 - app - INFO - Application shutdown
+2025-02-28 09:59:31 - app - INFO - Application startup
+2025-02-28 09:59:47 - app - INFO - Application shutdown
+2025-02-28 09:59:52 - app - INFO - Application startup
+2025-02-28 10:02:11 - app - INFO - Application shutdown
+2025-02-28 10:02:11 - app - INFO - Application startup
+2025-02-28 10:02:14 - app - INFO - Application shutdown
+2025-02-28 10:02:17 - app - INFO - Application startup
+2025-02-28 10:12:18 - app - INFO - Application shutdown
+2025-02-28 10:12:30 - app - INFO - Application startup
+2025-02-28 10:14:14 - app - INFO - Application shutdown
+2025-02-28 10:17:25 - app - INFO - Application startup
+2025-02-28 10:19:01 - app - INFO - Application shutdown
+2025-02-28 10:19:01 - app - INFO - Application startup
+2025-02-28 10:19:27 - app - INFO - Application shutdown
+2025-02-28 10:19:27 - app - INFO - Application startup
+2025-02-28 10:20:12 - app - INFO - Application shutdown
+2025-02-28 10:20:13 - app - INFO - Application startup
+2025-02-28 10:20:41 - app - INFO - Application shutdown
+2025-02-28 10:20:41 - app - INFO - Application startup
+2025-02-28 10:20:41 - app - INFO - Application shutdown
+2025-02-28 10:20:42 - app - INFO - Application startup
+2025-02-28 10:20:49 - app - INFO - Application shutdown
+2025-02-28 10:20:49 - app - INFO - Application startup
+2025-02-28 10:21:21 - app - INFO - Application shutdown
+2025-02-28 10:21:21 - app - INFO - Application startup
+2025-02-28 10:21:27 - app - INFO - Application shutdown
+2025-02-28 10:22:30 - app - INFO - Application startup
+2025-02-28 10:55:49 - app - INFO - Application startup
+2025-02-28 10:56:22 - app - INFO - HubSpot authorize: user_id=TestUser, org_id=TestOrg
+2025-02-28 10:56:38 - app - INFO - HubSpot get credentials: user_id=TestUser, org_id=TestOrg
+2025-02-28 11:00:16 - app - INFO - Application shutdown
+2025-02-28 11:00:16 - app - INFO - Application startup
+2025-02-28 11:01:23 - app - INFO - Application shutdown
+2025-02-28 11:01:24 - app - INFO - Application startup
+2025-02-28 11:03:50 - app - INFO - Application shutdown
+2025-02-28 11:03:51 - app - INFO - Application startup
+2025-02-28 11:05:29 - app - INFO - Application shutdown
+2025-02-28 11:05:29 - app - INFO - Application startup
+2025-02-28 11:09:11 - app - INFO - Application shutdown
+2025-02-28 11:09:12 - app - INFO - Application startup
+2025-02-28 11:09:12 - app - INFO - Application shutdown
+2025-02-28 11:09:12 - app - INFO - Application startup
+2025-02-28 11:09:32 - app - INFO - Application shutdown
+2025-02-28 11:09:33 - app - INFO - Application startup
+2025-02-28 11:09:39 - app - INFO - HubSpot authorize: user_id=TestUser, org_id=TestOrg
+2025-02-28 11:09:53 - app - INFO - HubSpot oauth2callback called
+2025-02-28 11:48:25 - app - INFO - HubSpot authorize: user_id=rdgf, org_id=fhjgj
+2025-02-28 11:48:33 - app - INFO - HubSpot oauth2callback called
+2025-02-28 11:48:36 - app - INFO - HubSpot get credentials: user_id=rdgf, org_id=fhjgj
+2025-02-28 11:49:56 - app - INFO - Application shutdown
+2025-02-28 11:50:06 - app - INFO - Application startup
+2025-02-28 11:56:42 - app - INFO - HubSpot authorize: user_id=qwerty, org_id=qwerty
+2025-02-28 11:56:48 - app - INFO - HubSpot get credentials: user_id=qwerty, org_id=qwerty
+2025-02-28 11:57:28 - app - INFO - Application shutdown
+2025-02-28 11:57:29 - app - INFO - Application startup
+2025-02-28 11:57:42 - app - INFO - Application shutdown
+2025-02-28 11:57:42 - app - INFO - Application startup
+2025-02-28 11:58:01 - app - INFO - Application shutdown
+2025-02-28 11:58:02 - app - INFO - Application startup
+2025-02-28 11:58:59 - app - INFO - Application shutdown
+2025-02-28 11:58:59 - app - INFO - Application startup
+2025-02-28 11:59:19 - app - INFO - Application shutdown
+2025-02-28 11:59:19 - app - INFO - Application startup
+2025-02-28 11:59:45 - app - INFO - Application shutdown
+2025-02-28 11:59:45 - app - INFO - Application startup
+2025-02-28 12:00:06 - app - INFO - Application shutdown
+2025-02-28 12:00:06 - app - INFO - Application startup
+2025-02-28 12:00:06 - app - INFO - Application shutdown
+2025-02-28 12:00:07 - app - INFO - Application startup
+2025-02-28 12:00:11 - app - INFO - Application shutdown
+2025-02-28 12:00:12 - app - INFO - Application startup
+2025-02-28 12:00:25 - app - INFO - Application shutdown
+2025-02-28 12:00:25 - app - INFO - Application startup
+2025-02-28 12:00:44 - app - INFO - Application shutdown
+2025-02-28 12:00:44 - app - INFO - Application startup
+2025-02-28 12:01:04 - app - INFO - Application shutdown
+2025-02-28 12:01:05 - app - INFO - Application startup
+2025-02-28 12:01:22 - app - INFO - Application shutdown
+2025-02-28 12:01:22 - app - INFO - Application startup
+2025-02-28 12:01:45 - app - INFO - Application shutdown
+2025-02-28 12:01:45 - app - INFO - Application startup
+2025-02-28 12:02:05 - app - INFO - Application shutdown
+2025-02-28 12:02:05 - app - INFO - Application startup
+2025-02-28 12:02:06 - app - INFO - Application shutdown
+2025-02-28 12:02:06 - app - INFO - Application startup
+2025-02-28 12:02:35 - app - INFO - Application shutdown
+2025-02-28 14:18:10 - app - INFO - Application startup
+2025-02-28 14:18:29 - app - INFO - HubSpot authorize: user_id=12345678, org_id=2q135w4e678oup9i
+2025-02-28 14:18:39 - app - INFO - HubSpot oauth2callback called
+2025-02-28 14:27:44 - app - INFO - HubSpot get credentials: user_id=12345678, org_id=2q135w4e678oup9i
+2025-02-28 14:27:56 - app - INFO - HubSpot authorize: user_id=12345678, org_id=2q135w4e678oup9i
+2025-02-28 14:28:03 - app - INFO - HubSpot oauth2callback called
+2025-02-28 14:43:49 - app - INFO - Application shutdown
+2025-02-28 14:43:49 - app - INFO - Application startup
+2025-02-28 14:43:58 - app - INFO - Application shutdown
+2025-02-28 14:43:58 - app - INFO - Application startup
+2025-02-28 14:44:02 - app - INFO - Application shutdown
+2025-02-28 14:44:08 - app - INFO - Application startup
+2025-02-28 14:46:55 - app - INFO - HubSpot authorize: user_id=., org_id=onefinnet
+2025-02-28 14:47:07 - app - INFO - HubSpot oauth2callback called
+2025-02-28 14:54:56 - app - INFO - Application shutdown
+2025-02-28 14:55:41 - app - INFO - Application startup
+2025-02-28 14:55:44 - app - INFO - Application shutdown
+2025-02-28 14:55:48 - app - INFO - Application startup
+2025-02-28 14:56:08 - app - INFO - HubSpot authorize: user_id=., org_id=onefinnet
+2025-02-28 14:56:14 - app - INFO - HubSpot oauth2callback called
+2025-02-28 14:58:47 - app - INFO - Application shutdown
+2025-02-28 14:58:47 - app - INFO - Application startup
+2025-02-28 14:58:50 - app - INFO - Application shutdown
+2025-02-28 14:58:54 - app - INFO - Application startup
+2025-02-28 14:59:30 - app - INFO - HubSpot authorize: user_id=., org_id=onefinnet
+2025-02-28 14:59:35 - app - INFO - HubSpot oauth2callback called
+2025-02-28 14:59:36 - app - INFO - HubSpot get credentials: user_id=., org_id=onefinnet
+2025-02-28 14:59:49 - app - INFO - HubSpot load items
+2025-02-28 15:00:18 - app - INFO - Application shutdown
+2025-02-28 15:00:19 - app - INFO - Application startup
+2025-02-28 15:00:21 - app - INFO - Application shutdown
+2025-02-28 15:00:25 - app - INFO - Application startup
+2025-02-28 15:00:55 - app - INFO - HubSpot authorize: user_id=123, org_id=123e
+2025-02-28 15:01:02 - app - INFO - HubSpot oauth2callback called
+2025-02-28 15:01:03 - app - INFO - HubSpot get credentials: user_id=123, org_id=123e
+2025-02-28 15:05:18 - app - INFO - Application shutdown
+2025-02-28 15:05:23 - app - INFO - Application startup
+2025-02-28 15:05:59 - app - INFO - HubSpot authorize: user_id=wrqetyiu, org_id=q23w5e6r7t8y98
+2025-02-28 15:06:06 - app - INFO - HubSpot oauth2callback called
+2025-02-28 15:06:07 - app - INFO - HubSpot get credentials: user_id=wrqetyiu, org_id=q23w5e6r7t8y98
+2025-02-28 15:13:56 - app - INFO - HubSpot authorize: user_id=123, org_id=1235465
+2025-02-28 15:14:03 - app - INFO - HubSpot oauth2callback called
+2025-02-28 15:14:04 - app - INFO - HubSpot get credentials: user_id=123, org_id=1235465
+2025-02-28 15:17:37 - app - INFO - HubSpot authorize: user_id=31254676, org_id=23q3w5e6r78t
+2025-02-28 15:17:44 - app - INFO - HubSpot oauth2callback called
+2025-02-28 15:17:45 - app - INFO - HubSpot get credentials: user_id=31254676, org_id=23q3w5e6r78t
+2025-02-28 15:18:11 - app - INFO - Application shutdown
+2025-02-28 15:18:37 - app - INFO - Application startup
+2025-02-28 15:18:50 - app - INFO - HubSpot authorize: user_id=12345y, org_id=234657t
+2025-02-28 15:18:56 - app - INFO - HubSpot oauth2callback called
+2025-02-28 15:18:57 - app - INFO - HubSpot get credentials: user_id=12345y, org_id=234657t
