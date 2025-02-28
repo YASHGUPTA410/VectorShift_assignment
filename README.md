@@ -5,6 +5,7 @@ This project provides a seamless way to connect with and retrieve data from popu
 ## Project Overview
 
 The architecture is designed for clarity and maintainability:
+```
 
 ├── backend/
 │   ├── integrations/        # Service-specific OAuth and data retrieval logic
@@ -31,6 +32,7 @@ The architecture is designed for clarity and maintainability:
 ├── App.js             # Root component
 ├── data-form.js        # Component for displaying and submitting data
 └── integration-form.js # Component for selecting integrations
+```
 
 
 ## Getting Started
